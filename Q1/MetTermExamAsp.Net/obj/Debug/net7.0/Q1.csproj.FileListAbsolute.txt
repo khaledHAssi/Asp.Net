@@ -1,0 +1,15 @@
+D:\Ucas\ForthClass\Asp.Net\Q1\MetTermExamAsp.Net\obj\Debug\net7.0\Q1.csproj.AssemblyReference.cache
+D:\Ucas\ForthClass\Asp.Net\Q1\MetTermExamAsp.Net\obj\Debug\net7.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ucas\ForthClass\Asp.Net\Q1\MetTermExamAsp.Net\obj\Debug\net7.0\Q1.AssemblyInfoInputs.cache
+D:\Ucas\ForthClass\Asp.Net\Q1\MetTermExamAsp.Net\obj\Debug\net7.0\Q1.AssemblyInfo.cs
+D:\Ucas\ForthClass\Asp.Net\Q1\MetTermExamAsp.Net\obj\Debug\net7.0\Q1.csproj.CoreCompileInputs.cache
+D:\Ucas\ForthClass\Asp.Net\Q1\MetTermExamAsp.Net\bin\Debug\net7.0\Q1.exe
+D:\Ucas\ForthClass\Asp.Net\Q1\MetTermExamAsp.Net\bin\Debug\net7.0\Q1.deps.json
+D:\Ucas\ForthClass\Asp.Net\Q1\MetTermExamAsp.Net\bin\Debug\net7.0\Q1.runtimeconfig.json
+D:\Ucas\ForthClass\Asp.Net\Q1\MetTermExamAsp.Net\bin\Debug\net7.0\Q1.dll
+D:\Ucas\ForthClass\Asp.Net\Q1\MetTermExamAsp.Net\bin\Debug\net7.0\Q1.pdb
+D:\Ucas\ForthClass\Asp.Net\Q1\MetTermExamAsp.Net\obj\Debug\net7.0\Q1.dll
+D:\Ucas\ForthClass\Asp.Net\Q1\MetTermExamAsp.Net\obj\Debug\net7.0\refint\Q1.dll
+D:\Ucas\ForthClass\Asp.Net\Q1\MetTermExamAsp.Net\obj\Debug\net7.0\Q1.pdb
+D:\Ucas\ForthClass\Asp.Net\Q1\MetTermExamAsp.Net\obj\Debug\net7.0\Q1.genruntimeconfig.cache
+D:\Ucas\ForthClass\Asp.Net\Q1\MetTermExamAsp.Net\obj\Debug\net7.0\ref\Q1.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "PlaylistCrud/1.0.0": {
+        "runtime": {
+          "PlaylistCrud.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PlaylistCrud/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
